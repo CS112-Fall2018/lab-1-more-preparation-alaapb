@@ -17,7 +17,7 @@ Therefore, the type is integer
 
 (ii) The number of atoms in a book; 
 
-The type should be float because the numbers used to explain this is very small
+The type should be long because the numbers used to explain this is very big
 
 (iii) The length of a side of a triangle in inches; 
 
